@@ -16,7 +16,7 @@ Each project folder includes:
 
 ## 🔧 Tools & Formats
 
-See [tools-used.md](./tools-used.md) for full details on:
+See [Tools-Used.md](./Tools-Used.md) for full details on:
 - Annotation tools (Labelbox, Roboflow, brat, Prodigy, etc.)
 - Formats used (YOLO, COCO, .ann, .json, .csv)
 
