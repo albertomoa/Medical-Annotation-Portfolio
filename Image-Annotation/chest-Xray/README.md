@@ -27,15 +27,6 @@ This project is part of my [Medical Annotation Portfolio](../..), and demonstrat
 
 ---
 
-## File Structure
-chest-xray/
-├── images/               # Raw chest X-ray images
-├── annotations/          # YOLO, COCO, or Pascal VOC annotation files
-├── screenshot.png        # Optional: Screenshot of annotation tool in use
-└── README.md             # Project documentation
-
----
-
 ## Annotation Export Format
 - **Format Used**: YOLOv5
 - **Label File Structure**: <class_id> <x_center> <y_center> <width> <height>
