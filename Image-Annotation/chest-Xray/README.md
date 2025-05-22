@@ -38,8 +38,7 @@ chest-xray/
 
 ## Annotation Export Format
 - **Format Used**: YOLOv5
-- **Label File Structure**:
-<class_id> <x_center> <y_center> <width> <height>
+- **Label File Structure**: <class_id> <x_center> <y_center> <width> <height>
 
 ---
 
