@@ -16,9 +16,9 @@ Each project folder includes:
 
 ## 🔧 Tools & Formats
 
-- Image Tools: CVAT, Roboflow, Labelbox
-- Text Tools: Prodigy, brat, spaCy
-- Formats: YOLO, COCO, `.ann`, `.json`, `.txt`
+See [tools-used.md](./tools-used.md) for full details on:
+- Annotation tools (Labelbox, Roboflow, brat, Prodigy, etc.)
+- Formats used (YOLO, COCO, .ann, .json, .csv)
 
 ---
 
