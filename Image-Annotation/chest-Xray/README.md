@@ -25,33 +25,6 @@ This project is part of my [Medical Annotation Portfolio](../..), and demonstrat
   - `Opacity`
   - `Pneumonia`
 
----
-
-## 📁 File Structure
-chest-xray/
-├── images/ # Raw chest X-ray images
-├── annotations/ # YOLO or COCO or Pascal VOC annotation files
-├── screenshot.png # Optional: Screenshot of tool in use
-└── README.md # Project documentation
-
----
-
-## 📤 Annotation Export Format
-
-- **Format**: YOLOv5
-- Each label file (.txt) contains:
-<class_id> <x_center> <y_center> <width> <height>
-
----
-
-## Example Image & Annotation
-
-Here is an example annotation created using Roboflow:
-
-![Sample Annotation](./screenshot.png)
-
----
-
 ## Outcomes
 
 - Practiced identifying radiological abnormalities
