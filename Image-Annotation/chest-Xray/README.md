@@ -17,7 +17,7 @@ This project is part of my [Medical Annotation Portfolio](../..), and demonstrat
 
 ---
 
-## 🛠️ Annotation Process
+## Annotation Process
 
 - **Tool Used**: [Roboflow](https://app.roboflow.com/)
 - **Type of Annotation**: Bounding Boxes
