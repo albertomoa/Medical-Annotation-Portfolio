@@ -1,4 +1,4 @@
-# 🧠 Medical Annotation Portfolio
+# Medical Annotation Portfolio
 
 Welcome to my medical annotation portfolio! This repository showcases my work in:
 
@@ -14,7 +14,7 @@ Each project folder includes:
 
 ---
 
-## 🔧 Tools & Formats
+## Tools & Formats
 
 See [Tools-Used.md](./Tools-Used.md) for full details on:
 - Annotation tools (Labelbox, Roboflow, brat, Prodigy, etc.)
@@ -22,7 +22,7 @@ See [Tools-Used.md](./Tools-Used.md) for full details on:
 
 ---
 
-## 📂 Projects Overview
+## Projects Overview
 
 | Category | Project | Description |
 |----------|---------|-------------|
